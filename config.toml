@@ -1,5 +1,5 @@
 # The base URL of the site; the only required configuration variable.
-base_url = "https://taurr.github.io/jrtv"
+base_url = "https://jrtv.dk"
 
 # The site theme to use.
 theme = "deepthought"
