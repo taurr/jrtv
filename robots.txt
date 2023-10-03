@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://jrtv.dk/sitemap.xml
